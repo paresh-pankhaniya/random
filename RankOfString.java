@@ -1,5 +1,6 @@
+//given string  without repetition of char and rank 
+
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
